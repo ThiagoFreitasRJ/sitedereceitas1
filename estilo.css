@@ -1,0 +1,45 @@
+.imagem-carrossel{
+	object-fit: cover;
+	object-position: 0 80%;
+	height: 460px;
+
+		}
+
+.imagem-carrossel-2{
+	object-fit: cover;
+	height: 460px;
+
+		}
+
+
+
+.fonte-titulo{
+	font-family: 'Maven Pro', sans-serif;
+	font-family: 'Pacifico', cursive;
+}
+
+.fonte-titulo2{
+	font-family: 'Maven Pro', sans-serif;
+	font-family: 'Pacifico', cursive;
+	color: darkred !important;
+
+}
+
+.botao-cor-especial{
+	background-color: darkred;
+	color: white;
+	}
+
+.borda-cor-especial{
+	border-color: darkred;
+}
+
+.card-posicao-imagem{
+	object-fit: cover;
+	height: 200px;
+}
+
+.card-largura{
+	width: 18rem;
+	max-width:18rem;
+}
